@@ -4,4 +4,4 @@
 * Các chức năng chính:
     + Đăng ký, đăng nhập tài khoản, đổi mật khẩu.
     + Đăng bài, chỉnh sửa, xóa bài đối với tài khoản admin.
-    + 
+    + Hiển thị bài viết.
